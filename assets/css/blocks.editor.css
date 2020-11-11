@@ -1,0 +1,36 @@
+.block-search-post .block-search-post-title{
+  color: #000;
+  font-size: 18px;
+  font-family: 'PT Sans' ,sans-serif;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.g1-skinmode .block-search-post-title{
+  color: #fff;
+
+}
+.block-search-post-content{
+  font-size: 0.8em;
+  line-height: 1.3em;
+  color: #6c6c6c;
+}
+.block-search-post img{
+  margin-top: 25px;
+}
+.block-search-post a{
+  text-decoration: none;
+}
+.single_related_post {
+    width: 220px;
+    display: block;
+    position: relative;
+    border-top: 3px solid #000;
+}
+.single_related_post.right {
+    float: right;
+    margin-left: 20px;
+}
+.single_related_post.left {
+    float: left;
+    margin-right: 20px;
+}
